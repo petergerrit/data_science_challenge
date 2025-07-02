@@ -1,0 +1,5 @@
+This repo contains a project used to analyze CitiBike ride data and NYC crash data.
+We load and clean the data in 'data_cleaning.ipynb' and 'get_data.py'.  
+The crash data are contained in 'Motor_Vehicle_Collisions_-_Crashes_20250617.zip'; the directory 'data' is used to download CitiBike data which are deleted after being loaded into a data frame.
+Data frames and plots are stored in the 'data_frames' and 'plots' directories, respectively.
+'ml.ipynb' contains machine learning models to predict the occurance of a bike crash.
